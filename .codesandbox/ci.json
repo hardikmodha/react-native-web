@@ -1,4 +1,3 @@
 {
-    "packages": ["packages/react", "packages/react-dom", "packages/react-native-web", "packages/react-scripts"],
-    "sandboxes": ["new"]
-  }
+    "sandboxes": ["q4qymyp2l6"]
+}
